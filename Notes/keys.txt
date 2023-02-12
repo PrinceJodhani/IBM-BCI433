@@ -1,0 +1,29 @@
+addlible bci433lib
+wrklib bci433lib
+addlible bci433lib
+dsplibl
+
+
+crtlib fri13th
+edtlibl
+
+dspsyval
+
+call strjob - show you name
+
+dltlib to delete library
+dltf to delete source file
+
+wrkmbrpdm
+wrksplf
+
+
+upddta accounts
+
+
+wrkobjown and f4
+you see all objects you own.
+
+
+
+type for physical and logical file is pf nlf

@@ -1,0 +1,2 @@
+ctrl shift f1 to field exit key
+ctrl shift f3 to field negative key

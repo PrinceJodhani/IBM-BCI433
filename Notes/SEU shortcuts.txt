@@ -1,0 +1,10 @@
+SEU shortcuts
+Insert I
+Delete D
+delete block DD DD
+repeat RP RPnnn nnn is the number of lines you wnat to repeat
+Copy C
+After A
+Before B
+Move block MM
+Exclude X for single or for block is XX nnn number of times
